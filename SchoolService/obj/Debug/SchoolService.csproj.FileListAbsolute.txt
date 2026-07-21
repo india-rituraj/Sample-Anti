@@ -1,0 +1,20 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\SchoolService\bin\SchoolService.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\SchoolService\bin\SchoolService.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\SchoolService\bin\SchoolService.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\SchoolService\obj\Debug\SchoolService.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\SchoolService\obj\Debug\SchoolService.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\SchoolService\obj\Debug\SchoolService.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\SchoolService\obj\Debug\SchoolService.pdb
+C:\Users\RBarhgoojer\Downloads\WCFServiceWithDataStoreXMLr\WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication-master\SchoolService\bin\SchoolService.dll.config
+C:\Users\RBarhgoojer\Downloads\WCFServiceWithDataStoreXMLr\WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication-master\SchoolService\bin\SchoolService.dll
+C:\Users\RBarhgoojer\Downloads\WCFServiceWithDataStoreXMLr\WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication-master\SchoolService\bin\SchoolService.pdb
+C:\Users\RBarhgoojer\Downloads\WCFServiceWithDataStoreXMLr\WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication-master\SchoolService\obj\Debug\SchoolService.csproj.AssemblyReference.cache
+C:\Users\RBarhgoojer\Downloads\WCFServiceWithDataStoreXMLr\WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication-master\SchoolService\obj\Debug\SchoolService.csproj.CoreCompileInputs.cache
+C:\Users\RBarhgoojer\Downloads\WCFServiceWithDataStoreXMLr\WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication-master\SchoolService\obj\Debug\SchoolService.dll
+C:\Users\RBarhgoojer\Downloads\WCFServiceWithDataStoreXMLr\WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication-master\SchoolService\obj\Debug\SchoolService.pdb
+C:\Users\RBarhgoojer\OneDrive - Colt Technology Services\Desktop\Antigravity-Demo-2\WCFSchoolService\SchoolService\bin\SchoolService.dll.config
+C:\Users\RBarhgoojer\OneDrive - Colt Technology Services\Desktop\Antigravity-Demo-2\WCFSchoolService\SchoolService\bin\SchoolService.dll
+C:\Users\RBarhgoojer\OneDrive - Colt Technology Services\Desktop\Antigravity-Demo-2\WCFSchoolService\SchoolService\bin\SchoolService.pdb
+C:\Users\RBarhgoojer\OneDrive - Colt Technology Services\Desktop\Antigravity-Demo-2\WCFSchoolService\SchoolService\obj\Debug\SchoolService.csprojResolveAssemblyReference.cache
+C:\Users\RBarhgoojer\OneDrive - Colt Technology Services\Desktop\Antigravity-Demo-2\WCFSchoolService\SchoolService\obj\Debug\SchoolService.dll
+C:\Users\RBarhgoojer\OneDrive - Colt Technology Services\Desktop\Antigravity-Demo-2\WCFSchoolService\SchoolService\obj\Debug\SchoolService.pdb
