@@ -1,9 +1,9 @@
-You are a senior .NET architect tasked with migrating an existing WCF service project to ASP.NET Web API 2 (targeting .NET Framework 4.7.2) using Visual Studio 2022/2026.
+### You are a senior .NET architect tasked with migrating an existing WCF service project to ASP.NET Web API 2 (targeting .NET Framework 4.7.2) using Visual Studio 2022/2026.
 
-Source Project Path:  
+### Source Project Path:  
 C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceSoap\SchoolService.sln
 
-Target Project Path (blank Web API solution):  
+### Target Project Path (blank Web API solution):  
 C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceRest\SchoolServiceRest.sln
 
 Your task is to help me convert this code into a clean, modern Web API following best practices.
