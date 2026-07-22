@@ -51,6 +51,6 @@ For each input:
 - If something cannot be directly translated, propose an equivalent design
 - Once the migration is complete, please build with VS2022 or VS2026, run the rest of the project, test all REST APIs, and capture the result in a document.
 
-### Additional Instruction
-- During migration, if you get isssue to restore nuget pagcages due to an Internet Proxy, then please leave them but make a document for us that we can download later and reference them in our Project.
-- Do Not Connect to any SQL/Oracle or any other Database.
+### Additional Instructions
+- During migration, if you encounter issues restoring NuGet packages due to an Internet proxy, please skip them for now. Instead, create a document listing those packages so we can download them later and reference them in our project.
+- Do not connect to, or execute any SQL queries against, SQL Server, Oracle, or any other database.
