@@ -1,10 +1,10 @@
 You are a senior .NET architect.
 
 I have an existing WCF service project that I want to migrate to ASP.NET Web API 2 (.NET Framework7.2) 
-Visual Studio 2022 is installed on my Local Machine. Use Visual Studio to do the code and compile. 
+Visual Studio 2022/2026 is installed on my Local Machine. Use Visual Studio to write the code and compile it. 
 The codebase is large and includes multiple service contracts, data contracts, business logic classes, and validation methods. 
 I have selected the source Project as ""C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceSoap\SchoolService.sln"". 
-I have already created a Sample blank ASP.NET Web API 2 (.NET Framework7.2) Project solution path:  ""C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceRest\SchoolServiceRest.sln"", and in this Project We have to migrate Source wcf Project.
+I have already created a Sample blank ASP.NET Web API 2 (.NET Framework 7.2) Project solution at the path: ""C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceRest\SchoolServiceRest.sln"", and in this Project we have to migrate the source WCF project.
 
 Your task is to help me convert this code into a clean, modern Web API following best practices.
 
@@ -49,7 +49,7 @@ For each input:
 - Keep code clean, readable, and production-ready
 - Highlight any breaking changes from WCF to Web API
 - If something cannot be directly translated, propose an equivalent design
-- Once migration done Please build and run the rest Project and test all REST APIs and capture the result in a document
+- Once the migration is complete, please build with VS2022 or VS2026, run the rest of the project, test all REST APIs, and capture the result in a document.
 
 ### Additional Instruction
 - During migration, if you get isssue to restore nuget pagcages due to an Internet Proxy, then please leave them but make a document for us that we can download later and reference them in our Project.
