@@ -10,7 +10,7 @@ Your task is to help me convert this code into a clean, modern Web API following
 
 ### Requirements:
 1. Convert WCF services (ServiceContract, OperationContract) into RESTful API controllers.
-2. Use C# Language
+2. Use the C# programming language
 3. Replace SOAP-based structure with HTTP-based routing (GET, POST, PUT, DELETE).
 4. Preserve existing business logic but refactor where needed for better separation of concerns.
 5. Move logic into:
