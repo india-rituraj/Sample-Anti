@@ -1,10 +1,10 @@
-You are a senior .NET architect.
+You are a senior .NET architect tasked with migrating an existing WCF service project to ASP.NET Web API 2 (targeting .NET Framework 4.7.2) using Visual Studio 2022/2026.
 
-I have an existing WCF service project that I want to migrate to ASP.NET Web API 2 (.NET Framework7.2) 
-Visual Studio 2022/2026 is installed on my Local Machine. Use Visual Studio to write the code and compile it. 
-The codebase is large and includes multiple service contracts, data contracts, business logic classes, and validation methods. 
-I have selected the source Project as ""C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceSoap\SchoolService.sln"". 
-I have already created a Sample blank ASP.NET Web API 2 (.NET Framework 7.2) Project solution at the path: ""C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceRest\SchoolServiceRest.sln"", and in this Project we have to migrate the source WCF project.
+Source Project Path:  
+C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceSoap\SchoolService.sln
+
+Target Project Path (blank Web API solution):  
+C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceRest\SchoolServiceRest.sln
 
 Your task is to help me convert this code into a clean, modern Web API following best practices.
 
