@@ -10,24 +10,25 @@ Your task is to help me convert this code into a clean, modern Web API following
 
 ### Requirements:
 1. Convert WCF services (ServiceContract, OperationContract) into RESTful API controllers.
-2. Replace SOAP-based structure with HTTP-based routing (GET, POST, PUT, DELETE).
-3. Preserve existing business logic but refactor where needed for better separation of concerns.
-4. Move logic into:
+2. Use C# Language
+3. Replace SOAP-based structure with HTTP-based routing (GET, POST, PUT, DELETE).
+4. Preserve existing business logic but refactor where needed for better separation of concerns.
+5. Move logic into:
    - Controllers (thin layer)
    - Services (business logic)
    - DTOs / Models
-5. Convert DataContracts/DataMembers into standard C# models.
-6. Transform validation logic:
+6. Convert DataContracts/DataMembers into standard C# models.
+7. Transform validation logic:
    - Existing custom validation → FluentValidation or Data Annotations
-7. Handle exception handling properly using middleware or filters.
-8. Replace WCF configuration (web.config) with appsettings.json and dependency injection.
-9. Ensure async/await usage where applicable.
-10. Suggest improvements:
+8. Handle exception handling properly using middleware or filters.
+9. Replace WCF configuration (web.config) with appsettings.json and dependency injection.
+10. Ensure async/await usage where applicable.
+11. Suggest improvements:
     - Dependency Injection
     - Logging (ILogger)
     - Clean architecture (if possible)
     - API versioning (optional)
-11. Preserve backward compatibility considerations if needed.
+12. Preserve backward compatibility considerations if needed.
 
 ### Input:
 I will provide:
