@@ -4,7 +4,7 @@
 C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceSoap\SchoolService.sln
 
 ### Target Project Path (blank Web API solution):  
-C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceRest\SchoolServiceRest.sln
+C:\Users\india\OneDrive\FromYourPhone\Desktop\Antigravity-Demo-4\SchoolServiceRest\SchoolServiceRest\SchoolServiceRest.slnx
 
 Your task is to help me convert this code into a clean, modern Web API following best practices.
 
